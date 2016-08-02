@@ -12,7 +12,7 @@ import javax.persistence.Id;
 public class Person extends Model {
 
     @Id
-    public String id;
+    private long id;
 
     public String name;
 
