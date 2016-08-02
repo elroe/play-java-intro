@@ -1,5 +1,5 @@
-New log file opened at Tue Aug 02 19:45:52 CEST 2016 by 7380@NB00887769
-jvm 7380@NB00887769
+New log file opened at Tue Aug 02 20:23:46 CEST 2016 by 4696@NB00887769
+jvm 4696@NB00887769
 jvm vmName=Java HotSpot(TM) 64-Bit Server VM vmVendor=Oracle Corporation vmVersion=25.102-b14
 jvm specName=Java Virtual Machine Specification specVendor=Oracle Corporation specVersion=1.8
 jvm arguments: [-Xms256m, -Xmx1024m, -XX:MetaspaceSize=64m, -XX:MaxMetaspaceSize=256m]
@@ -27,7 +27,7 @@ sorting: ns: List(sbt.plugins.CorePlugin, sbt.plugins.IvyPlugin, sbt.plugins.Jvm
   :: sorted deduced result: List(sbt.plugins.CorePlugin, sbt.plugins.IvyPlugin, sbt.plugins.JvmPlugin, sbt.plugins.JUnitXmlReportPlugin)
 [Loading] Done in D:\Dev\Tutorials\play-java-intro\project, returning: (play-java-intro-build)
 Loading project definition from D:\Dev\Tutorials\play-java-intro\project
-Running task... Cancel: sbt.TaskCancellationStrategy$Null$@5716bb8f, check cycles: false
+Running task... Cancel: sbt.TaskCancellationStrategy$Null$@3d920e34, check cycles: false
 
 Initial source changes: 
 	removed:Set()
@@ -63,7 +63,3 @@ sorting: ns: List(sbt.plugins.CorePlugin, play.ebean.sbt.PlayEbean, play.sbt.Pla
 [Loading] Done in D:\Dev\Tutorials\play-java-intro, returning: (root)
 Set current project to play-java-intro (in build file:/D:/Dev/Tutorials/play-java-intro/)
 Reapplying settings...
-Set current project to play-java-intro (in build file:/D:/Dev/Tutorials/play-java-intro/)
-> iflast shell
-> server-send-ready-for-request
-> server-handle-next-server-request
