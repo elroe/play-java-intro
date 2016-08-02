@@ -9,7 +9,8 @@ import javax.persistence.Id;
  * Created by elroessn on 31.07.2016.
  */
 @Entity
-public class Person extends Model{
+public class Person extends Model {
+
     @Id
     public String id;
 
