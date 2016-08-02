@@ -1,16 +1,19 @@
-New log file opened at Sun Jul 31 18:13:14 CEST 2016 by 6224@NB00887769
-Taking next connection to: 59315
-New client attempting to connect on port: 59316-59315
-  Address = /169.254.215.12:59315
-This client on port 59316 has uuid b010aaa2-5bfc-4fd3-929c-25af6c1238a2 configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
-Connected Clients: play-fork-run-b010aaa2-5bfc-4fd3-929c-25af6c1238a2
-Taking next connection to: 59315
+New log file opened at Tue Aug 02 19:45:52 CEST 2016 by 7380@NB00887769
+Taking next connection to: 61155
+New client attempting to connect on port: 61156-61155
+  Address = /169.254.103.157:61155
+This client on port 61156 has uuid 5ba9c8c4-9f8c-4e35-8e52-c2b2d7d8a632 configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
+Connected Clients: play-fork-run-5ba9c8c4-9f8c-4e35-8e52-c2b2d7d8a632
+Taking next connection to: 61155
 Checking to see if clients are empty...
 We have 1 non-daemon clients, continuing serving connections.
-Taking next connection to: 59315
+Taking next connection to: 61155
 Checking to see if clients are empty...
 We have 1 non-daemon clients, continuing serving connections.
-Taking next connection to: 59315
+Taking next connection to: 61155
 Checking to see if clients are empty...
 We have 1 non-daemon clients, continuing serving connections.
-Taking next connection to: 59315
+Taking next connection to: 61155
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 61155
